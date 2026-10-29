@@ -1,0 +1,7 @@
+# 把浏览器的 Cookie 原样粘贴到下面（单独一行，不要换行、不要加引号、不要带 "Cookie:" 前缀）
+# 示例格式：
+# BDUSS=xxxxxxxxxxxxxxxxxx; PSTM=1234567890; BAIDUID=XXXXXXXXXXXXXXXXXX:FG=1; ...
+#
+# 必须包含 BDUSS= 字段，否则签到一定失败。
+#
+# 【重要】本文件是模板，请把真实 Cookie 填到同级目录下的 cookie.txt，别填在这里。
